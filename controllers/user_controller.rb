@@ -1,5 +1,5 @@
 class UserController < ApplicationController
   def index
-    render plain: "I'm in the index action!"
+    render plain: "Sample text"
   end
 end
